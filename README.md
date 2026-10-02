@@ -42,7 +42,7 @@ This project was created for **HTML, CSS, and JavaScript practice**, especially 
 
 ## 🚀 Live Demo
 
-** https://shivani-jaiswal88.github.io/bubble-bust-project-js/
+👉 https://shivani-jaiswal88.github.io/bubble-bust-project-js/
 
 ## 📂 Project Structure
 
