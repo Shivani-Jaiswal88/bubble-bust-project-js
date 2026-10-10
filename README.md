@@ -20,11 +20,3 @@
 2. CSS3
 3. JavaScript
 
-
-
-bubble-burst-game/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
